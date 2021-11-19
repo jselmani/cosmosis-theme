@@ -2,7 +2,20 @@
     "name": "cosmosis-dark",
     "displayName": "Cosmosis Dark",
     "description": "Harnessing the colours of the Cosmos, one line of code at a time.",
-    "version": "0.0.1",
+    "publisher": "Jiel Selmani",
+    "contact": "jiel.selmani@gmail.com",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jselmani/cosmosis-theme"
+    },
+    "keywords": [
+        "dark theme",
+        "jiel selmani",
+        "Cosmosis Dark",
+        "visual studio code",
+        "vscode"
+    ],
     "engines": {
         "vscode": "^1.62.0"
     },
