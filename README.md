@@ -7,6 +7,12 @@
 <p align="center">
     <img src="assets/theme-preview.PNG" />
 </p>
-<br />
-<h1>License</h1>
-[MIT (C) Jiel Selmani](./LICENSE)
+<h1>Installation</h1>  
+<ol>
+    <li>Open the <strong>Extensions</strong> sidebar in VS Code</li>
+    <li>Search for Cosmosis Dark Theme</li>
+    <li>Click <strong>Install</strong></li>
+    <li>Open the <strong>Command Palette</strong></li>
+    <li>Select <strong>Preferences: Color Theme</strong> and choose Cosmosis Dark</li>
+    <li>Enjoy!</li>
+</ol>
