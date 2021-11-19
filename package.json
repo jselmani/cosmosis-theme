@@ -1,0 +1,21 @@
+{
+    "name": "cosmosis-dark",
+    "displayName": "Cosmosis Dark",
+    "description": "Harnessing the colours of the Cosmos, one line of code at a time.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cosmosis Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cosmosis Dark-color-theme.json"
+            }
+        ]
+    }
+}
